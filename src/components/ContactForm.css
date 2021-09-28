@@ -1,0 +1,31 @@
+.textField1,.textField4{
+    margin: 10px !important;
+    border-bottom: 2px solid rgb(0, 255, 179) !important;
+}
+.textField2,.textField3{
+border-bottom: 2px solid rgb(0, 255, 179)!important;
+width: 270px   !important;
+}
+*{
+    /* border: 1px solid grey; */
+    color: white !important;
+}
+.OuterBodyLow{
+    border: rgb(0, 255, 179) 3px solid;
+    border-radius: 20px;
+    max-width: 600px;
+    min-width: 280px;
+    padding: 15px 35px 10px 20px !important;
+    height: auto;
+    margin: 10px auto 20px auto;
+}
+.SubmitBtn{
+    margin: 10px 3px !important;
+    border: solid 1px rgb(0, 255, 179) !important;
+    background-color: black!important;
+    color: rgb(0, 255, 179)  !important;
+}
+.SubmitBtn:hover{
+        background-color: rgb(0, 255, 179) !important;
+    color: black  !important;
+}

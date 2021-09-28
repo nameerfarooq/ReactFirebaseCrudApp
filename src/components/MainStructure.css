@@ -1,0 +1,15 @@
+.OuterBody{
+    /* background-color: rgb(0, 0, 0); */
+    width: 100%;
+    color: white;
+
+    height: 100vh;
+}
+
+.heading{
+    text-align: center;
+    margin: 30px auto;
+}
+*{
+    /* border: 1px solid grey; */
+}

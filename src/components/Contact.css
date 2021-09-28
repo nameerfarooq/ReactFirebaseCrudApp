@@ -1,0 +1,15 @@
+.Outter2{
+    margin: 20px;
+}
+.headerContact{
+    background-color: rgb(0, 255, 179);
+    height: 40px;
+    display: flex !important;
+    align-items: center !important;
+}
+.headers{
+color: black !important;
+}
+.DataRow{
+margin: 10px auto !important;
+}
