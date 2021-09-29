@@ -1,5 +1,5 @@
 .Outter2{
-    margin: 20px;
+    margin: 20px 0 0 0 ;
 }
 .headerContact{
     background-color: rgb(0, 255, 179);
@@ -9,7 +9,8 @@
 }
 .headers{
 color: black !important;
+font-weight: bolder;
 }
 .DataRow{
-margin: 10px auto !important;
+margin: 2px auto !important;
 }

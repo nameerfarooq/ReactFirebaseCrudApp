@@ -9,6 +9,8 @@ var firebaseConfig = {
   };
   
   // Initialize Firebase
+// eslint-disable-next-line
+  var fireDb = firebase.initializeApp(firebaseConfig);
 
- firebase.initializeApp(firebaseConfig);
- var database = firebase.database();
+  // export default fireDb
+
