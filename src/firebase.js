@@ -12,5 +12,5 @@ var firebaseConfig = {
 // eslint-disable-next-line
   var fireDb = firebase.initializeApp(firebaseConfig);
 
-  // export default fireDb
+  export default fireDb
 

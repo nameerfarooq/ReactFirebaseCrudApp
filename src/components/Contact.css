@@ -2,7 +2,8 @@
     margin: 20px 0 0 0 ;
 }
 .headerContact{
-    background-color: rgb(0, 255, 179);
+    background-color: #0ab892;
+    color: white !important;
     height: 40px;
     display: flex !important;
     align-items: center !important;
@@ -12,5 +13,10 @@ color: black !important;
 font-weight: bolder;
 }
 .DataRow{
-margin: 2px auto !important;
+margin: 5px auto !important;
+}
+.disabled:disabled{
+    text-decoration: line-through !important;
+    color: white !important;
+    background-color: rgb(113, 172, 190) !important;
 }
